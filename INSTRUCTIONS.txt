@@ -1,0 +1,8 @@
+Numpad 8 = Up
+Numpad 5 = Down
+Numpad 4 = Left
+Numpad 6 = Rigth
+Numpad 7 = Left Clcik
+Numpad 9 = Right Click
+Numpad 2 = Middle Click
+Numpad 0 = Toggle Game Mode (Keeps Buttons Pressed)
